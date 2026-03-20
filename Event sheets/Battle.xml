@@ -488,7 +488,7 @@
                     </conditions>
                     <actions>
                         <action id="4" name="Preload" sid="1634811247740819" type="Audio">
-                            <param id="0" name="Audio file">mus_zz_megalovania</param>
+                            <param id="0" name="Audio file">mus_zz_the_slaughter_WILL_continue</param>
                         </action>
                     </actions>
                 </event-block>
@@ -502,7 +502,7 @@
                     </conditions>
                     <actions>
                         <action id="0" name="Play" sid="4080759880781125" type="Audio">
-                            <param id="0" name="Audio file">mus_zz_megalovania</param>
+                            <param id="0" name="Audio file">mus_zz_the_slaughter_WILL_continue</param>
                             <param id="2" name="Loop">1</param>
                             <param id="3" name="Volume">0</param>
                             <param id="1" name="Tag (optional)">&quot;Music&quot;</param>
@@ -1017,7 +1017,7 @@
                     </conditions>
                     <actions>
                         <action id="0" name="Play" sid="155637585424909" type="Audio">
-                            <param id="0" name="Audio file">mus_zz_megalovania</param>
+                            <param id="0" name="Audio file">mus_zz_the_slaughter_WILL_continue</param>
                             <param id="2" name="Loop">1</param>
                             <param id="3" name="Volume">0</param>
                             <param id="1" name="Tag (optional)">&quot;Music&quot;</param>
@@ -1056,7 +1056,7 @@
                     </conditions>
                     <actions>
                         <action id="0" name="Play" sid="211739466686506" type="Audio">
-                            <param id="0" name="Audio file">mus_zz_megalovania</param>
+                            <param id="0" name="Audio file">mus_zz_the_slaughter_WILL_continue</param>
                             <param id="2" name="Loop">1</param>
                             <param id="3" name="Volume">0</param>
                             <param id="1" name="Tag (optional)">&quot;Music&quot;</param>
@@ -1273,7 +1273,7 @@
                                             <param id="1" name="Parameter {n}"></param>
                                         </action>
                                         <action id="0" name="Play" sid="687530192848918" type="Audio">
-                                            <param id="0" name="Audio file">mus_zz_megalovania</param>
+                                            <param id="0" name="Audio file">mus_zz_the_slaughter_WILL_continue</param>
                                             <param id="2" name="Loop">1</param>
                                             <param id="3" name="Volume">0</param>
                                             <param id="1" name="Tag (optional)">&quot;Music&quot;</param>
@@ -2498,7 +2498,7 @@
                                     </conditions>
                                     <actions>
                                         <action id="0" name="Play" sid="3571287415179704" type="Audio">
-                                            <param id="0" name="Audio file">mus_zz_megalovania</param>
+                                            <param id="0" name="Audio file">mus_zz_the_slaughter_WILL_continue</param>
                                             <param id="2" name="Loop">1</param>
                                             <param id="3" name="Volume">0</param>
                                             <param id="1" name="Tag (optional)">&quot;Music&quot;</param>
